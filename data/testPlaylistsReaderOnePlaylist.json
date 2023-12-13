@@ -1,0 +1,13 @@
+{"playlists": [
+  {
+    "playlistGenre": "Pop",
+    "songs": [
+      {
+        "songName": "Song1",
+        "songGenre": "Pop",
+        "songArtist": "Artist1"
+      }
+    ],
+    "playlistName": "Poppy"
+  }
+]}

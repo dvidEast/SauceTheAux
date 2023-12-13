@@ -1,0 +1,28 @@
+{
+  "playlists": [
+    {"playlistName": "p1",
+      "playlistGenre": "g1",
+      "songs": [
+        {
+          "songName": "Song1",
+          "songGenre": "g1",
+          "songArtist": "Artist1"
+        },
+        {
+          "songName": "Song2",
+          "songGenre": "g1",
+          "songArtist": "Artist2"
+        }
+      ]
+    },
+    {"playlistName": "p2",
+      "playlistGenre": "g3",
+      "songs": [
+        {"songName": "s3",
+          "songGenre": "g3",
+          "songArtist": "a3"
+        }
+      ]
+    }
+  ]
+}

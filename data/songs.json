@@ -1,0 +1,47 @@
+{"songs": [
+    {
+        "songName": "Song1",
+        "songGenre": "Pop",
+        "songArtist": "Artist1"
+    },
+    {
+        "songName": "Song2",
+        "songGenre": "Pop",
+        "songArtist": "Artist2"
+    },
+    {
+        "songName": "Song3",
+        "songGenre": "Rock",
+        "songArtist": "Artist3"
+    },
+    {
+        "songName": "Song4",
+        "songGenre": "Rap",
+        "songArtist": "Artist4"
+    },
+    {
+        "songName": "Dynamite",
+        "songGenre": "K-Pop",
+        "songArtist": "BTS"
+    },
+    {
+        "songName": "Fake Love",
+        "songGenre": "K-Pop",
+        "songArtist": "BTS"
+    },
+    {
+        "songName": "Seven",
+        "songGenre": "K-Pop",
+        "songArtist": "Jung Kook"
+    },
+    {
+        "songName": "Rappy Rappy Song",
+        "songGenre": "Rap",
+        "songArtist": "Mr. Rapper"
+    },
+    {
+        "songName": "Jazz Song",
+        "songGenre": "Jazz",
+        "songArtist": "Jazzus"
+    }
+]}

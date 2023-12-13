@@ -1,0 +1,64 @@
+{"playlists": [
+    {
+        "playlistGenre": "Pop",
+        "songs": [
+            {
+                "songName": "Song1",
+                "songGenre": "Pop",
+                "songArtist": "Artist1"
+            },
+            {
+                "songName": "Song2",
+                "songGenre": "Pop",
+                "songArtist": "Artist2"
+            }
+        ],
+        "playlistName": "Poppy"
+    },
+    {
+        "playlistGenre": "K-Pop",
+        "songs": [
+            {
+                "songName": "Dynamite",
+                "songGenre": "K-Pop",
+                "songArtist": "BTS"
+            },
+            {
+                "songName": "Fake Love",
+                "songGenre": "K-Pop",
+                "songArtist": "BTS"
+            },
+            {
+                "songName": "Seven",
+                "songGenre": "K-Pop",
+                "songArtist": "Jung Kook"
+            }
+        ],
+        "playlistName": "Kpoop"
+    },
+    {
+        "playlistGenre": "Rap",
+        "songs": [
+            {
+                "songName": "Song4",
+                "songGenre": "Rap",
+                "songArtist": "Artist4"
+            },
+            {
+                "songName": "Rappy Rappy Song",
+                "songGenre": "Rap",
+                "songArtist": "Mr. Rapper"
+            }
+        ],
+        "playlistName": "Feelin' Rappy"
+    },
+    {
+        "playlistGenre": "Jazz",
+        "songs": [{
+            "songName": "Jazz Song",
+            "songGenre": "Jazz",
+            "songArtist": "Jazzus"
+        }],
+        "playlistName": "Jazzy"
+    }
+]}
